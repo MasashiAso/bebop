@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target keyboard_node
+[0m[100%] [32mBuilding CXX object CMakeFiles/keyboard_node.dir/src/keyboard.cpp.o
+[0m[31m[1mLinking CXX executable /home/mech-user/bebop_ws/devel/.private/bebop_tools/lib/bebop_tools/keyboard_node
+[0m[100%] Built target keyboard_node

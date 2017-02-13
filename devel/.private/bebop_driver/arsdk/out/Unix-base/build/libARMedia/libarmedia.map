@@ -1,0 +1,616 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (ARSAL_Print_PrintRaw)
+libardiscovery.so             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (ARDISCOVERY_getProductID)
+libjson.so                    /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (json_tokener_parse)
+libpthread.so.0               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (fsync@@GLIBC_2.2.5)
+libc.so.6                     /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (fflush@@GLIBC_2.2.5)
+
+破棄された入力セクション
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+メモリ設定
+
+名前           原点             長さ             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+リンカスクリプトおよびメモリマップ
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarsal.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libardiscovery.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libjson.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x164
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x164 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000358      0x8d0
+ *(.dynsym)
+ .dynsym        0x0000000000000358      0x8d0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000c28      0x694
+ *(.dynstr)
+ .dynstr        0x0000000000000c28      0x694 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x00000000000012bc       0xbc
+ *(.gnu.version)
+ .gnu.version   0x00000000000012bc       0xbc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001378        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001378       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001378       0x80 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x00000000000013f8       0xf0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x00000000000013f8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001410       0xa8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000014b8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000014d0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000014e8      0x660
+ *(.rela.plt)
+ .rela.plt      0x00000000000014e8      0x660 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001b48       0x1a
+ *(SORT(.init))
+ .init          0x0000000000001b48       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001b48                _init
+ .init          0x0000000000001b5d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001b70      0x450
+ *(.plt)
+ .plt           0x0000000000001b70      0x450 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000001fc0     0x7619
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001fc0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x00000000000020a5        0xb 
+ .text.ARMEDIA_Error_ToString
+                0x00000000000020b0       0xd8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+                0x00000000000020b0                ARMEDIA_Error_ToString
+ *fill*         0x0000000000002188        0x8 
+ .text.ARMEDIA_H264StartcodeMatch
+                0x0000000000002190       0x4d /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x00000000000021dd        0x3 
+ .text.ARMEDIA_VideoEncapsuler_New
+                0x00000000000021e0        0xf /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000021e0                ARMEDIA_VideoEncapsuler_New
+ *fill*         0x00000000000021ef        0x1 
+ .text.ARMEDIA_VideoEncapsuler_AddFrame
+                0x00000000000021f0      0xf96 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000021f0                ARMEDIA_VideoEncapsuler_AddFrame
+ *fill*         0x0000000000003186        0xa 
+ .text.ARMEDIA_VideoEncapsuler_AddSample
+                0x0000000000003190      0xc7a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000003190                ARMEDIA_VideoEncapsuler_AddSample
+ *fill*         0x0000000000003e0a        0x6 
+ .text.ARMEDIA_VideoEncapsuler_Finish
+                0x0000000000003e10     0x1afb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000003e10                ARMEDIA_VideoEncapsuler_Finish
+ *fill*         0x000000000000590b        0x5 
+ .text.ARMEDIA_VideoEncapsuler_SetGPSInfos
+                0x0000000000005910       0x26 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000005910                ARMEDIA_VideoEncapsuler_SetGPSInfos
+ *fill*         0x0000000000005936        0xa 
+ .text.ARMEDIA_VideoEncapsuler_TryFixMediaFile
+                0x0000000000005940     0x1171 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000005940                ARMEDIA_VideoEncapsuler_TryFixMediaFile
+ *fill*         0x0000000000006ab1        0xf 
+ .text.ARMEDIA_VideoEncapsuler_changePVATAtomDate
+                0x0000000000006ac0      0x1d0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000006ac0                ARMEDIA_VideoEncapsuler_changePVATAtomDate
+ .text.ARMEDIA_VideoEncapsuler_addPVATAtom
+                0x0000000000006c90      0x1ab /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000006c90                ARMEDIA_VideoEncapsuler_addPVATAtom
+ *fill*         0x0000000000006e3b        0x5 
+ .text.atomFromData
+                0x0000000000006e40       0x88 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000006e40                atomFromData
+ *fill*         0x0000000000006ec8        0x8 
+ .text.insertAtomIntoAtom
+                0x0000000000006ed0       0xcc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000006ed0                insertAtomIntoAtom
+ *fill*         0x0000000000006f9c        0x4 
+ .text.writeAtomToFile
+                0x0000000000006fa0       0xde /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000006fa0                writeAtomToFile
+ *fill*         0x000000000000707e        0x2 
+ .text.freeAtom
+                0x0000000000007080       0x33 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007080                freeAtom
+ *fill*         0x00000000000070b3        0xd 
+ .text.ftypAtomForFormatAndCodecWithOffset
+                0x00000000000070c0      0x14c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000070c0                ftypAtomForFormatAndCodecWithOffset
+ *fill*         0x000000000000720c        0x4 
+ .text.mdatAtomForFormatWithVideoSize
+                0x0000000000007210       0xb4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007210                mdatAtomForFormatWithVideoSize
+ *fill*         0x00000000000072c4        0xc 
+ .text.mvhdAtomFromFpsNumFramesAndDate
+                0x00000000000072d0      0x1f4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000072d0                mvhdAtomFromFpsNumFramesAndDate
+ *fill*         0x00000000000074c4        0xc 
+ .text.tkhdAtomWithResolutionNumFramesFpsAndDate
+                0x00000000000074d0      0x234 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000074d0                tkhdAtomWithResolutionNumFramesFpsAndDate
+ *fill*         0x0000000000007704        0xc 
+ .text.mdhdAtomFromFpsNumFramesAndDate
+                0x0000000000007710       0xc4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007710                mdhdAtomFromFpsNumFramesAndDate
+ *fill*         0x00000000000077d4        0xc 
+ .text.hdlrAtomForMdia
+                0x00000000000077e0      0x12c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000077e0                hdlrAtomForMdia
+ *fill*         0x000000000000790c        0x4 
+ .text.smhdAtomGen
+                0x0000000000007910       0x4a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007910                smhdAtomGen
+ *fill*         0x000000000000795a        0x6 
+ .text.vmhdAtomGen
+                0x0000000000007960       0x57 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007960                vmhdAtomGen
+ *fill*         0x00000000000079b7        0x9 
+ .text.hdlrAtomForMinf
+                0x00000000000079c0       0xf5 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000079c0                hdlrAtomForMinf
+ *fill*         0x0000000000007ab5        0xb 
+ .text.drefAtomGen
+                0x0000000000007ac0       0xa5 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007ac0                drefAtomGen
+ *fill*         0x0000000000007b65        0xb 
+ .text.stsdAtomWithResolutionAndCodec
+                0x0000000000007b70      0x7e1 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007b70                stsdAtomWithResolutionAndCodec
+ *fill*         0x0000000000008351        0xf 
+ .text.stsdAtomWithAudioCodec
+                0x0000000000008360      0x16c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008360                stsdAtomWithAudioCodec
+ *fill*         0x00000000000084cc        0x4 
+ .text.stsdAtomWithResolutionCodecSpsAndPps
+                0x00000000000084d0      0x2d0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000084d0                stsdAtomWithResolutionCodecSpsAndPps
+ .text.stscAtomGen
+                0x00000000000087a0       0xdc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000087a0                stscAtomGen
+ *fill*         0x000000000000887c        0x4 
+ .text.stszAtomGen
+                0x0000000000008880      0x104 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008880                stszAtomGen
+ *fill*         0x0000000000008984        0xc 
+ .text.metadataAtomFromTagAndValue
+                0x0000000000008990      0x10b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008990                metadataAtomFromTagAndValue
+ *fill*         0x0000000000008a9b        0x5 
+ .text.pvatAtomGen
+                0x0000000000008aa0       0x1b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008aa0                pvatAtomGen
+ *fill*         0x0000000000008abb        0x5 
+ .text.createDataFromAtom
+                0x0000000000008ac0       0x51 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008ac0                createDataFromAtom
+ *fill*         0x0000000000008b11        0xf 
+ .text.getVideoFpsFromAtom
+                0x0000000000008b20       0x13 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008b20                getVideoFpsFromAtom
+ *fill*         0x0000000000008b33        0xd 
+ .text.swap_uint64
+                0x0000000000008b40       0x18 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008b40                swap_uint64
+ *fill*         0x0000000000008b58        0x8 
+ .text.seekMediaFileToAtom
+                0x0000000000008b60      0x2b1 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008b60                seekMediaFileToAtom
+ *fill*         0x0000000000008e11        0xf 
+ .text.createDataFromFile
+                0x0000000000008e20      0x47b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008e20                createDataFromFile
+ *fill*         0x000000000000929b        0x5 
+ .text.getVideoFpsFromFile
+                0x00000000000092a0       0xf3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000092a0                getVideoFpsFromFile
+ *fill*         0x0000000000009393        0xd 
+ .text.seekMediaBufferToAtom
+                0x00000000000093a0       0x96 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000093a0                seekMediaBufferToAtom
+ *fill*         0x0000000000009436        0xa 
+ .text.ARMEDIA_VideoAtom_GetPVATString
+                0x0000000000009440      0x199 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009440                ARMEDIA_VideoAtom_GetPVATString
+ *(.gnu.warning)
+
+.fini           0x00000000000095dc        0x9
+ *(SORT(.fini))
+ .fini          0x00000000000095dc        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000095dc                _fini
+ .fini          0x00000000000095e0        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000095e5                PROVIDE (__etext, .)
+                0x00000000000095e5                PROVIDE (_etext, .)
+                0x00000000000095e5                PROVIDE (etext, .)
+
+.rodata         0x0000000000009600     0x1584
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000009600       0xd6 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ *fill*         0x00000000000096d6        0x2 
+ .rodata.str1.8
+                0x00000000000096d8       0x8f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .rodata.str1.1
+                0x0000000000009767       0x88 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x00000000000097ef        0x1 
+ .rodata.str1.8
+                0x00000000000097f0     0x1020 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000a810       0x10 
+ .rodata        0x000000000000a820      0x161 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000a981        0x7 
+ .rodata.str1.8
+                0x000000000000a988      0x128 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .rodata.str1.1
+                0x000000000000aab0       0x9e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                         0xe4 (緩和前のサイズ)
+ *fill*         0x000000000000ab4e        0x2 
+ .rodata        0x000000000000ab50       0x34 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000000ab84      0x144
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000ab84      0x144 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+
+.eh_frame       0x000000000000acc8      0x8b4
+ *(.eh_frame)
+ .eh_frame      0x000000000000acc8       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x000000000000ad08       0x30 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .eh_frame      0x000000000000ad38      0x220 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                                        0x228 (緩和前のサイズ)
+ .eh_frame      0x000000000000af58      0x620 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                        0x5f0 (緩和前のサイズ)
+ .eh_frame      0x000000000000b578        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000b57c                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000020bd9c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020bda0        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020bda0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000020bda8        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020bda8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020bdb0        0x8
+ *(.jcr)
+ .jcr           0x000000000020bdb0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000020bdb0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020bdb8      0x210
+ *(.dynamic)
+ .dynamic       0x000000000020bdb8      0x210 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020bdb8                _DYNAMIC
+
+.got            0x000000000020bfc8       0x38
+ *(.got)
+ .got           0x000000000020bfc8       0x38 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020cfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020c000      0x238
+ *(.got.plt)
+ .got.plt       0x000000000020c000      0x238 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020c238        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020c238        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020c238                __dso_handle
+
+.tm_clone_table
+                0x000000000020c240        0x0
+ .tm_clone_table
+                0x000000000020c240        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020c240        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020c240                _edata = .
+                0x000000000020c240                PROVIDE (edata, .)
+                0x000000000020c240                . = .
+                0x000000000020c240                __bss_start = .
+
+.bss            0x000000000020c240        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020c240        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000020c248                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020c241        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020c248                . = ALIGN (0x8)
+                0x000000000020c248                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060c248        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060c248                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060c248                . = ALIGN (0x8)
+                0x000000000060c248                _end = .
+                0x000000000060c248                PROVIDE (end, .)
+                0x000000000060c248                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (緩和前のサイズ)
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x2d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_aranges
+                0x0000000000000030       0xb0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_aranges
+                0x00000000000000e0      0x1f0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xba5a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xdb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_info    0x00000000000000db     0x7b41 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_info    0x0000000000007c1c     0x3e3e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_abbrev   0x0000000000000000      0x9f3
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x76 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_abbrev  0x0000000000000076      0x48b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_abbrev  0x0000000000000501      0x4f2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_line     0x0000000000000000     0x1c9a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0xfb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_line    0x00000000000000fb      0xf0a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_line    0x0000000000001005      0xc95 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x1a91
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x2c9 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+                                        0x2e2 (緩和前のサイズ)
+ .debug_str     0x00000000000002c9     0x13fb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                                       0x178a (緩和前のサイズ)
+ .debug_str     0x00000000000016c4      0x3cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                        0xf81 (緩和前のサイズ)
+
+.debug_loc      0x0000000000000000     0xf75d
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x6565 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_loc     0x0000000000006565     0x91f8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x1e30
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_ranges  0x0000000000000020      0xb40 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_ranges  0x0000000000000b60     0x12d0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARMedia/libarmedia.so elf64-x86-64)

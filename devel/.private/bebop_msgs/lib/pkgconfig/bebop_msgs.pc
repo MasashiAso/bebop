@@ -1,0 +1,8 @@
+prefix=/home/mech-user/bebop_ws/devel/.private/bebop_msgs
+
+Name: bebop_msgs
+Description: Description of bebop_msgs
+Version: 0.5.1
+Cflags: -I/home/mech-user/bebop_ws/devel/.private/bebop_msgs/include
+Libs: -L/home/mech-user/bebop_ws/devel/.private/bebop_msgs/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,821 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o (__libc_csu_init)
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARSAL_Mutex_Lock)
+libarcommands.so              /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARCOMMANDS_Generator_GenerateCommonCommonCurrentTime)
+libarnetwork.so               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARNETWORK_Manager_ReceivingThreadRun)
+libarnetworkal.so             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARNETWORKAL_Error_ToString)
+libardiscovery.so             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARDISCOVERY_Connection_New)
+libarstream.so                /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARSTREAM_Reader_New)
+libncurses.so.5               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o (delwin)
+libtinfo.so.5                 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o (wtimeout)
+libavcodec.so.54              /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o (avcodec_open2@@LIBAVCODEC_54)
+libavutil.so.52               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o (av_log_set_level@@LIBAVUTIL_52)
+libpthread.so.0               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (fork@@GLIBC_2.2.5)
+libc.so.6                     /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (fopen@@GLIBC_2.2.5)
+
+割り当てている共通シンボル
+共通シンボル        サイズ            ファイル
+
+gErrorStr           0x800             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+
+破棄された入力セクション
+
+ .rodata.cst4   0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .text.unregisterARCommandsCallbacks
+                0x0000000000000000       0x1a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .data          0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .bss           0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+メモリ設定
+
+名前           原点             長さ             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+リンカスクリプトおよびメモリマップ
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarsal.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarcommands.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarnetwork.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarnetworkal.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libardiscovery.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarstream.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libncurses.so
+LOAD /lib/x86_64-linux-gnu/libncurses.so.5
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libtinfo.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavcodec.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavformat.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libswscale.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavutil.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000400000                PROVIDE (__executable_start, 0x400000)
+                0x0000000000400238                . = (0x400000 + SIZEOF_HEADERS)
+
+.interp         0x0000000000400238       0x1c
+ *(.interp)
+ .interp        0x0000000000400238       0x1c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.note.ABI-tag   0x0000000000400254       0x20
+ .note.ABI-tag  0x0000000000400254       0x20 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.note.gnu.build-id
+                0x0000000000400274       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000400274       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x0000000000400298       0x28
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000400298       0x28 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.dynsym         0x00000000004002c0      0xa08
+ *(.dynsym)
+ .dynsym        0x00000000004002c0      0xa08 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.dynstr         0x0000000000400cc8      0xa13
+ *(.dynstr)
+ .dynstr        0x0000000000400cc8      0xa13 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version    0x00000000004016dc       0xd6
+ *(.gnu.version)
+ .gnu.version   0x00000000004016dc       0xd6 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version_d  0x00000000004017b8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version_r  0x00000000004017b8       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000004017b8       0xa0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.rela.dyn       0x0000000000401858       0x90
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000401858       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+
+.rela.plt       0x00000000004018e8      0x8b8
+ *(.rela.plt)
+ .rela.plt      0x00000000004018e8      0x8b8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004021a0                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+ .rela.iplt     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004021a0                PROVIDE (__rela_iplt_end, .)
+
+.init           0x00000000004021a0       0x1a
+ *(SORT(.init))
+ .init          0x00000000004021a0       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000004021a0                _init
+ .init          0x00000000004021b5        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000004021c0      0x5e0
+ *(.plt)
+ .plt           0x00000000004021c0      0x5e0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004021d0                dup2@@GLIBC_2.2.5
+                0x00000000004021e0                avcodec_decode_video2@@LIBAVCODEC_54
+                0x00000000004021f0                ARSTREAM_Reader_New
+                0x0000000000402200                ARCOMMANDS_Generator_GenerateCommonSettingsAllSettings
+                0x0000000000402210                ARNETWORK_Manager_Delete
+                0x0000000000402220                close@@GLIBC_2.2.5
+                0x0000000000402230                av_init_packet@@LIBAVCODEC_54
+                0x0000000000402240                wmove
+                0x0000000000402250                ARSAL_Thread_Join
+                0x0000000000402260                ARSAL_Thread_Destroy
+                0x0000000000402270                keypad
+                0x0000000000402290                ARSTREAM_Reader_Delete
+                0x00000000004022a0                endwin
+                0x00000000004022b0                ARNETWORKAL_Manager_Delete
+                0x00000000004022c0                ARNETWORKAL_Manager_New
+                0x00000000004022d0                malloc@@GLIBC_2.2.5
+                0x00000000004022e0                fopen@@GLIBC_2.2.5
+                0x00000000004022f0                ARSAL_Print_PrintRaw
+                0x0000000000402300                __libc_start_main@@GLIBC_2.2.5
+                0x0000000000402310                ARNETWORKAL_Manager_InitWifiNetwork
+                0x0000000000402320                execlp@@GLIBC_2.2.5
+                0x0000000000402330                ARCOMMANDS_Generator_GenerateARDrone3PilotingTakeOff
+                0x0000000000402340                ARSTREAM_Reader_InitStreamAckBuffer
+                0x0000000000402350                delwin
+                0x0000000000402360                __vsnprintf_chk@@GLIBC_2.3.4
+                0x0000000000402370                initscr
+                0x0000000000402380                mvprintw
+                0x0000000000402390                ARCOMMANDS_Decoder_SetARDrone3PilotingStateFlyingStateChangedCallback
+                0x00000000004023a0                wclrtoeol
+                0x00000000004023b0                avpicture_get_size@@LIBAVCODEC_54
+                0x00000000004023c0                ARCOMMANDS_Generator_GenerateARDrone3PilotingLanding
+                0x00000000004023d0                free@@GLIBC_2.2.5
+                0x00000000004023e0                ARNETWORKAL_Manager_Unlock
+                0x00000000004023f0                avpicture_layout@@LIBAVCODEC_54
+                0x0000000000402400                ARCOMMANDS_Generator_GenerateARDrone3CameraOrientation
+                0x0000000000402410                avcodec_register_all@@LIBAVCODEC_54
+                0x0000000000402420                wrefresh
+                0x0000000000402430                avcodec_open2@@LIBAVCODEC_54
+                0x0000000000402440                wtimeout
+                0x0000000000402450                ARDISCOVERY_Connection_New
+                0x0000000000402460                ARCOMMANDS_Generator_GenerateCommonCommonCurrentDate
+                0x0000000000402470                ARCOMMANDS_Generator_GenerateARDrone3MediaStreamingVideoEnable
+                0x0000000000402480                ARNETWORK_Manager_SendData
+                0x0000000000402490                ARSTREAM_Reader_StopReader
+                0x00000000004024a0                ARSAL_Mutex_Lock
+                0x00000000004024b0                ARNETWORK_Manager_ReadDataWithTimeout
+                0x00000000004024c0                kill@@GLIBC_2.2.5
+                0x00000000004024d0                usleep@@GLIBC_2.2.5
+                0x00000000004024e0                av_free@@LIBAVUTIL_52
+                0x00000000004024f0                cbreak
+                0x0000000000402500                ARSAL_Print_SetCallback
+                0x0000000000402510                ARNETWORKAL_Manager_CloseWifiNetwork
+                0x0000000000402520                ARCOMMANDS_Generator_GenerateARDrone3PilotingPCMD
+                0x0000000000402530                avcodec_close@@LIBAVCODEC_54
+                0x0000000000402540                ARSAL_Mutex_Init
+                0x0000000000402550                wgetch
+                0x0000000000402560                ARSAL_Mutex_Unlock
+                0x0000000000402570                ARNETWORKAL_Error_ToString
+                0x0000000000402580                ARDISCOVERY_Connection_Delete
+                0x0000000000402590                ARCOMMANDS_Generator_GenerateARDrone3PilotingEmergency
+                0x00000000004025a0                ARCOMMANDS_Generator_GenerateCommonCommonAllStates
+                0x00000000004025b0                ARSTREAM_Reader_InitStreamDataBuffer
+                0x00000000004025c0                ARCOMMANDS_Decoder_DecodeBuffer
+                0x00000000004025d0                __stack_chk_fail@@GLIBC_2.4
+                0x00000000004025e0                ARNETWORK_Error_ToString
+                0x00000000004025f0                avpicture_fill@@LIBAVCODEC_54
+                0x0000000000402600                ARCOMMANDS_Generator_GenerateCommonCommonCurrentTime
+                0x0000000000402610                avcodec_alloc_frame@@LIBAVCODEC_54
+                0x0000000000402620                ARSTREAM_Error_ToString
+                0x0000000000402630                avcodec_free_frame@@LIBAVCODEC_54
+                0x0000000000402640                ARSAL_Mutex_Destroy
+                0x0000000000402650                ARCOMMANDS_Decoder_SetCommonCommonStateBatteryStateChangedCallback
+                0x0000000000402660                ARCOMMANDS_Decoder_DescribeBuffer
+                0x0000000000402670                ARNETWORK_Manager_New
+                0x0000000000402680                calloc@@GLIBC_2.2.5
+                0x0000000000402690                fclose@@GLIBC_2.2.5
+                0x00000000004026a0                strncpy@@GLIBC_2.2.5
+                0x00000000004026b0                avcodec_find_decoder@@LIBAVCODEC_54
+                0x00000000004026c0                __sprintf_chk@@GLIBC_2.3.4
+                0x00000000004026d0                ARNETWORK_Manager_Stop
+                0x00000000004026e0                fork@@GLIBC_2.2.5
+                0x00000000004026f0                ARSAL_Thread_Create
+                0x0000000000402700                av_log_set_level@@LIBAVUTIL_52
+                0x0000000000402710                fwrite@@GLIBC_2.2.5
+                0x0000000000402720                realloc@@GLIBC_2.2.5
+                0x0000000000402730                ARDISCOVERY_Error_ToString
+                0x0000000000402740                ARSAL_Time_GetLocalTime
+                0x0000000000402750                strftime@@GLIBC_2.2.5
+                0x0000000000402760                noecho
+                0x0000000000402770                avcodec_alloc_context3@@LIBAVCODEC_54
+                0x0000000000402780                open@@GLIBC_2.2.5
+                0x0000000000402790                ARDISCOVERY_Connection_ControllerConnection
+ *(.iplt)
+ .iplt          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.text           0x00000000004027a0     0x4652
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x00000000004027a0      0x974 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004027a0                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000403114       0x2a /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000403114                _start
+ *fill*         0x000000000040313e        0x2 
+ .text          0x0000000000403140       0xbd /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ *fill*         0x00000000004031fd        0x3 
+ .text.onDisconnectNetwork
+                0x0000000000403200       0xc1 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403200                onDisconnectNetwork
+ *fill*         0x00000000004032c1        0xf 
+ .text.arnetworkCmdCallback
+                0x00000000004032d0       0xd4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004032d0                arnetworkCmdCallback
+ *fill*         0x00000000004033a4        0xc 
+ .text.readerRun
+                0x00000000004033b0      0x264 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004033b0                readerRun
+ *fill*         0x0000000000403614        0xc 
+ .text.getNextDataCallback
+                0x0000000000403620       0x57 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403620                getNextDataCallback
+ *fill*         0x0000000000403677        0x9 
+ .text.flyingStateChangedCallback
+                0x0000000000403680       0x94 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403680                flyingStateChangedCallback
+ *fill*         0x0000000000403714        0xc 
+ .text.ARDISCOVERY_Connection_SendJsonCallback
+                0x0000000000403720       0x97 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403720                ARDISCOVERY_Connection_SendJsonCallback
+ *fill*         0x00000000004037b7        0x9 
+ .text.ARDISCOVERY_Connection_ReceiveJsonCallback
+                0x00000000004037c0      0x10c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004037c0                ARDISCOVERY_Connection_ReceiveJsonCallback
+ *fill*         0x00000000004038cc        0x4 
+ .text.batteryStateChangedCallback
+                0x00000000004038d0       0x22 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004038d0                batteryStateChangedCallback
+ *fill*         0x00000000004038f2        0xe 
+ .text.customPrintCallback
+                0x0000000000403900       0x59 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403900                customPrintCallback
+ *fill*         0x0000000000403959        0x7 
+ .text.ardiscoveryConnect
+                0x0000000000403960      0x22d /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403960                ardiscoveryConnect
+ *fill*         0x0000000000403b8d        0x3 
+ .text.startNetwork
+                0x0000000000403b90      0x3fd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403b90                startNetwork
+ *fill*         0x0000000000403f8d        0x3 
+ .text.stopNetwork
+                0x0000000000403f90      0x12b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403f90                stopNetwork
+ *fill*         0x00000000004040bb        0x5 
+ .text.startVideo
+                0x00000000004040c0      0x2f8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004040c0                startVideo
+ *fill*         0x00000000004043b8        0x8 
+ .text.stopVideo
+                0x00000000004043c0      0x116 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004043c0                stopVideo
+ *fill*         0x00000000004044d6        0xa 
+ .text.sendPCMD
+                0x00000000004044e0       0xc5 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004044e0                sendPCMD
+ *fill*         0x00000000004045a5        0xb 
+ .text.sendCameraOrientation
+                0x00000000004045b0       0xa5 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004045b0                sendCameraOrientation
+ *fill*         0x0000000000404655        0xb 
+ .text.looperRun
+                0x0000000000404660       0x38 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404660                looperRun
+ *fill*         0x0000000000404698        0x8 
+ .text.sendDate
+                0x00000000004046a0      0x2a0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004046a0                sendDate
+ .text.sendAllSettings
+                0x0000000000404940      0x1cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404940                sendAllSettings
+ *fill*         0x0000000000404b0d        0x3 
+ .text.sendAllStates
+                0x0000000000404b10      0x1cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404b10                sendAllStates
+ *fill*         0x0000000000404cdd        0x3 
+ .text.sendBeginStream
+                0x0000000000404ce0      0x1cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404ce0                sendBeginStream
+ *fill*         0x0000000000404ead        0x3 
+ .text.sendTakeoff
+                0x0000000000404eb0      0x1cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404eb0                sendTakeoff
+ *fill*         0x000000000040507d        0x3 
+ .text.sendLanding
+                0x0000000000405080      0x1cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405080                sendLanding
+ *fill*         0x000000000040524d        0x3 
+ .text.sendEmergency
+                0x0000000000405250      0x1cd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405250                sendEmergency
+ *fill*         0x000000000040541d        0x3 
+ .text.onInputEvent
+                0x0000000000405420      0x1f8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405420                onInputEvent
+ *fill*         0x0000000000405618        0x8 
+ .text.registerARCommandsCallbacks
+                0x0000000000405620       0x23 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405620                registerARCommandsCallbacks
+ *fill*         0x0000000000405643        0xd 
+ .text.startDecoder
+                0x0000000000405650      0x2dd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405650                startDecoder
+ *fill*         0x000000000040592d        0x3 
+ .text.getFreeRawFrame
+                0x0000000000405930      0x1f4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405930                getFreeRawFrame
+ *fill*         0x0000000000405b24        0xc 
+ .text.getFrameFromData
+                0x0000000000405b30       0x60 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405b30                getFrameFromData
+ .text.putRawFrameBackToPool
+                0x0000000000405b90       0x24 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405b90                putRawFrameBackToPool
+ *fill*         0x0000000000405bb4        0xc 
+ .text.Decode_RunDataThread
+                0x0000000000405bc0      0x1e4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405bc0                Decode_RunDataThread
+ *fill*         0x0000000000405da4        0xc 
+ .text.addFreeRawFrameToFifo
+                0x0000000000405db0       0x8b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405db0                addFreeRawFrameToFifo
+ *fill*         0x0000000000405e3b        0x5 
+ .text.flushFifo
+                0x0000000000405e40       0x85 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405e40                flushFifo
+ *fill*         0x0000000000405ec5        0xb 
+ .text.frameCompleteCallback
+                0x0000000000405ed0       0xb4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405ed0                frameCompleteCallback
+ *fill*         0x0000000000405f84        0xc 
+ .text.stopDecoder
+                0x0000000000405f90      0x1d1 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405f90                stopDecoder
+ *fill*         0x0000000000406161        0xf 
+ .text.ARCODECS_Manager_InitOutputFrame
+                0x0000000000406170       0x55 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000406170                ARCODECS_Manager_InitOutputFrame
+ *fill*         0x00000000004061c5        0xb 
+ .text.ARCODECS_Manager_NewFFMPEGDecoder
+                0x00000000004061d0       0xf9 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x00000000004061d0                ARCODECS_Manager_NewFFMPEGDecoder
+ *fill*         0x00000000004062c9        0x7 
+ .text.ARCODECS_Manager_DeleteFFMPEGDecoder
+                0x00000000004062d0       0x8a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x00000000004062d0                ARCODECS_Manager_DeleteFFMPEGDecoder
+ *fill*         0x000000000040635a        0x6 
+ .text.ARCODECS_Manager_Delete
+                0x0000000000406360       0x3f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000406360                ARCODECS_Manager_Delete
+ *fill*         0x000000000040639f        0x1 
+ .text.ARCODECS_Manager_New
+                0x00000000004063a0      0x192 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x00000000004063a0                ARCODECS_Manager_New
+ *fill*         0x0000000000406532        0xe 
+ .text.ARCODECS_Manager_FFMPEGDecode
+                0x0000000000406540      0x25b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000406540                ARCODECS_Manager_FFMPEGDecode
+ *fill*         0x000000000040679b        0x5 
+ .text.ARCODECS_Manager_Decode
+                0x00000000004067a0       0x67 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x00000000004067a0                ARCODECS_Manager_Decode
+ *fill*         0x0000000000406807        0x9 
+ .text.IHM_InputProcessing
+                0x0000000000406810      0x2c0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406810                IHM_InputProcessing
+ .text.IHM_Delete
+                0x0000000000406ad0       0x79 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406ad0                IHM_Delete
+ *fill*         0x0000000000406b49        0x7 
+ .text.IHM_New  0x0000000000406b50       0xc6 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406b50                IHM_New
+ *fill*         0x0000000000406c16        0xa 
+ .text.IHM_setCustomData
+                0x0000000000406c20        0xb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406c20                IHM_setCustomData
+ *fill*         0x0000000000406c2b        0x5 
+ .text.IHM_PrintHeader
+                0x0000000000406c30       0x42 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406c30                IHM_PrintHeader
+ *fill*         0x0000000000406c72        0xe 
+ .text.IHM_PrintInstruction
+                0x0000000000406c80       0x4a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406c80                IHM_PrintInstruction
+ *fill*         0x0000000000406cca        0x6 
+ .text.IHM_PrintInfo
+                0x0000000000406cd0       0x4a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406cd0                IHM_PrintInfo
+ *fill*         0x0000000000406d1a        0x6 
+ .text.IHM_PrintBattery
+                0x0000000000406d20       0x52 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406d20                IHM_PrintBattery
+ *fill*         0x0000000000406d72        0xe 
+ .text          0x0000000000406d80       0x72 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                0x0000000000406d80                __libc_csu_init
+                0x0000000000406df0                __libc_csu_fini
+ *(.gnu.warning)
+
+.fini           0x0000000000406df4        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000406df4        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000406df4                _fini
+ .fini          0x0000000000406df8        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000406dfd                PROVIDE (__etext, .)
+                0x0000000000406dfd                PROVIDE (_etext, .)
+                0x0000000000406dfd                PROVIDE (etext, .)
+
+.rodata         0x0000000000406e00      0xf71
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000406e00      0x176 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                        0x194 (緩和前のサイズ)
+ *fill*         0x0000000000406f76        0x2 
+ .rodata.str1.8
+                0x0000000000406f78      0xb82 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ *fill*         0x0000000000407afa        0x6 
+ .rodata        0x0000000000407b00      0x1bc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .rodata.str1.1
+                0x0000000000407cbc       0x2e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                                         0x37 (緩和前のサイズ)
+ *fill*         0x0000000000407cea        0x6 
+ .rodata.str1.8
+                0x0000000000407cf0       0x40 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                                         0x3a (緩和前のサイズ)
+ .rodata        0x0000000000407d30       0x35 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .rodata.str1.1
+                0x0000000000407d65        0xc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000407d74      0x1bc
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000407d74      0x1bc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.eh_frame       0x0000000000407f30      0xbf4
+ *(.eh_frame)
+ .eh_frame      0x0000000000407f30       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .eh_frame      0x0000000000407f60       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .eh_frame      0x0000000000407fa0      0x870 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                        0x848 (緩和前のサイズ)
+ .eh_frame      0x0000000000408810      0x160 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                                        0x170 (緩和前のサイズ)
+ .eh_frame      0x0000000000408970      0x150 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .eh_frame      0x0000000000408ac0       0x60 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                                         0x78 (緩和前のサイズ)
+ .eh_frame      0x0000000000408b20        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000408b24                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000608d34                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000608d34        0x0
+                0x0000000000608d34                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000000608d34                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000000608d38        0x8
+                0x0000000000608d38                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000608d38        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                0x0000000000608d40                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000000608d40        0x8
+                0x0000000000608d40                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000608d40        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                0x0000000000608d48                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000608d48        0x8
+ *(.jcr)
+ .jcr           0x0000000000608d48        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .jcr           0x0000000000608d48        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000608d50      0x280
+ *(.dynamic)
+ .dynamic       0x0000000000608d50      0x280 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000608d50                _DYNAMIC
+
+.got            0x0000000000608fd0       0x30
+ *(.got)
+ .got           0x0000000000608fd0       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.igot)
+                0x0000000000609fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000609000      0x300
+ *(.got.plt)
+ .got.plt       0x0000000000609000      0x300 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000609000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.data           0x0000000000609300       0xe0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000609300       0xe0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+
+.tm_clone_table
+                0x00000000006093e0        0x0
+ .tm_clone_table
+                0x00000000006093e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .tm_clone_table
+                0x00000000006093e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.data1
+ *(.data1)
+                0x00000000006093e0                _edata = .
+                0x00000000006093e0                PROVIDE (edata, .)
+                0x00000000006093e0                . = .
+                0x00000000006093e0                __bss_start = .
+
+.bss            0x00000000006093e0      0x820
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000006093e0        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ *fill*         0x00000000006093e1        0x3 
+ .bss           0x00000000006093e4        0x4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000006093e4                gIHMRun
+ *(COMMON)
+ *fill*         0x00000000006093e8       0x18 
+ COMMON         0x0000000000609400      0x800 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000609400                gErrorStr
+                0x0000000000609c00                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000609c00                . = ALIGN (0x8)
+                0x0000000000609c00                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000a09c00        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000a09c00                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000a09c00                . = ALIGN (0x8)
+                0x0000000000a09c00                _end = .
+                0x0000000000a09c00                PROVIDE (end, .)
+                0x0000000000a09c00                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                                         0x2c (緩和前のサイズ)
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x3a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x270 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_aranges
+                0x0000000000000270       0x90 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_aranges
+                0x0000000000000300       0xa0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xee61
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0xa356 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_info    0x000000000000a356     0x3fa6 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_info    0x000000000000e2fc      0xb65 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_abbrev   0x0000000000000000      0xba8
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x52a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_abbrev  0x000000000000052a      0x3df /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_abbrev  0x0000000000000909      0x29f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_line     0x0000000000000000     0x1463
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0xde2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_line    0x0000000000000de2      0x3df /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_line    0x00000000000011c1      0x2a2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x6a3e
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x66c8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                       0x834b (緩和前のサイズ)
+ .debug_str     0x00000000000066c8      0x2b8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                                       0x5c03 (緩和前のサイズ)
+ .debug_str     0x0000000000006980       0xbe /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+                                        0x796 (緩和前のサイズ)
+
+.debug_loc      0x0000000000000000     0x3e48
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x323a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_loc     0x000000000000323a      0x99e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_loc     0x0000000000003bd8      0x270 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xc80
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0xb20 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_ranges  0x0000000000000b20       0xd0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_ranges  0x0000000000000bf0       0x90 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopDroneDecodeStream/BebopDroneDecodeStream elf64-x86-64)

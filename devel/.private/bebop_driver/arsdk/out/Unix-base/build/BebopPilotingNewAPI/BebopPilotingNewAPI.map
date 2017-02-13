@@ -1,0 +1,612 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o (__libc_csu_init)
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o (ARSAL_Sem_Wait)
+libarcontroller.so            /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o (ARCONTROLLER_Device_SetVideoStreamCallbacks)
+libardiscovery.so             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o (ARDISCOVERY_Device_Delete)
+libncurses.so.5               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o (delwin)
+libtinfo.so.5                 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o (wtimeout)
+libpthread.so.0               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o (fork@@GLIBC_2.2.5)
+libc.so.6                     /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o (fflush@@GLIBC_2.2.5)
+
+割り当てている共通シンボル
+共通シンボル        サイズ            ファイル
+
+gErrorStr           0x800             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+stateSem            0x8               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+破棄された入力セクション
+
+ .rodata.cst4   0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+ .data          0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .bss           0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+メモリ設定
+
+名前           原点             長さ             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+リンカスクリプトおよびメモリマップ
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarsal.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarcontroller.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libardatatransfer.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarutils.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarcommands.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarnetwork.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarnetworkal.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libardiscovery.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarstream.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarstream2.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libncurses.so
+LOAD /lib/x86_64-linux-gnu/libncurses.so.5
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libtinfo.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000400000                PROVIDE (__executable_start, 0x400000)
+                0x0000000000400238                . = (0x400000 + SIZEOF_HEADERS)
+
+.interp         0x0000000000400238       0x1c
+ *(.interp)
+ .interp        0x0000000000400238       0x1c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.note.ABI-tag   0x0000000000400254       0x20
+ .note.ABI-tag  0x0000000000400254       0x20 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.note.gnu.build-id
+                0x0000000000400274       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000400274       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x0000000000400298       0x28
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000400298       0x28 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.dynsym         0x00000000004002c0      0x630
+ *(.dynsym)
+ .dynsym        0x00000000004002c0      0x630 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.dynstr         0x00000000004008f0      0x54b
+ *(.dynstr)
+ .dynstr        0x00000000004008f0      0x54b /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version    0x0000000000400e3c       0x84
+ *(.gnu.version)
+ .gnu.version   0x0000000000400e3c       0x84 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version_d  0x0000000000400ec0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version_r  0x0000000000400ec0       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000400ec0       0x70 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.rela.dyn       0x0000000000400f30       0x78
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000400f30       0x78 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+
+.rela.plt       0x0000000000400fa8      0x4f8
+ *(.rela.plt)
+ .rela.plt      0x0000000000400fa8      0x4f8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004014a0                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+ .rela.iplt     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004014a0                PROVIDE (__rela_iplt_end, .)
+
+.init           0x00000000004014a0       0x1a
+ *(SORT(.init))
+ .init          0x00000000004014a0       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000004014a0                _init
+ .init          0x00000000004014b5        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000004014c0      0x360
+ *(.plt)
+ .plt           0x00000000004014c0      0x360 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004014d0                ARCONTROLLER_Device_Start
+                0x00000000004014e0                free@@GLIBC_2.2.5
+                0x00000000004014f0                ARSAL_Thread_Destroy
+                0x0000000000401500                ARSAL_Thread_Create
+                0x0000000000401510                ARSAL_Sem_Wait
+                0x0000000000401520                ARCONTROLLER_Device_GetState
+                0x0000000000401530                ARCONTROLLER_Device_Stop
+                0x0000000000401540                fclose@@GLIBC_2.2.5
+                0x0000000000401550                ARCONTROLLER_Error_ToString
+                0x0000000000401560                wclrtoeol
+                0x0000000000401570                strlen@@GLIBC_2.2.5
+                0x0000000000401580                __stack_chk_fail@@GLIBC_2.4
+                0x0000000000401590                wrefresh
+                0x00000000004015a0                keypad
+                0x00000000004015b0                initscr
+                0x00000000004015c0                raw
+                0x00000000004015d0                ARSAL_Time_GetLocalTime
+                0x00000000004015e0                wtimeout
+                0x00000000004015f0                ARSAL_Sem_Init
+                0x0000000000401600                ARCONTROLLER_Device_AddStateChangedCallback
+                0x0000000000401610                __libc_start_main@@GLIBC_2.2.5
+                0x0000000000401620                memcmp@@GLIBC_2.2.5
+                0x0000000000401630                ARCONTROLLER_Device_AddCommandReceivedCallback
+                0x0000000000401640                ARSAL_Thread_Join
+                0x0000000000401650                ARCONTROLLER_Device_Delete
+                0x0000000000401670                delwin
+                0x0000000000401680                ARSAL_Sem_Destroy
+                0x0000000000401690                kill@@GLIBC_2.2.5
+                0x00000000004016a0                ARSAL_Sem_Post
+                0x00000000004016b0                ARDISCOVERY_Error_ToString
+                0x00000000004016c0                malloc@@GLIBC_2.2.5
+                0x00000000004016d0                fflush@@GLIBC_2.2.5
+                0x00000000004016e0                ARSAL_Print_PrintRaw
+                0x00000000004016f0                ARDISCOVERY_Device_Delete
+                0x0000000000401700                __vsnprintf_chk@@GLIBC_2.3.4
+                0x0000000000401710                strftime@@GLIBC_2.2.5
+                0x0000000000401720                ARCONTROLLER_Device_SetVideoStreamCallbacks
+                0x0000000000401730                endwin
+                0x0000000000401740                wgetch
+                0x0000000000401750                ARSAL_Print_SetCallback
+                0x0000000000401760                ARCONTROLLER_Device_New
+                0x0000000000401770                fopen@@GLIBC_2.2.5
+                0x0000000000401780                noecho
+                0x0000000000401790                __isoc99_scanf@@GLIBC_2.7
+                0x00000000004017a0                ARDISCOVERY_Device_InitWifi
+                0x00000000004017b0                fwrite@@GLIBC_2.2.5
+                0x00000000004017c0                ARDISCOVERY_Device_New
+                0x00000000004017d0                wmove
+                0x00000000004017e0                execlp@@GLIBC_2.2.5
+                0x00000000004017f0                mvprintw
+                0x0000000000401800                fork@@GLIBC_2.2.5
+                0x0000000000401810                usleep@@GLIBC_2.2.5
+ *(.iplt)
+ .iplt          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.text           0x0000000000401820     0x28a2
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x0000000000401820      0xd8b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000401820                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000004025ab       0x2a /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004025ab                _start
+ *fill*         0x00000000004025d5        0xb 
+ .text          0x00000000004025e0       0xbd /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ *fill*         0x000000000040269d        0x3 
+ .text.IHM_InputProcessing
+                0x00000000004026a0      0x25e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x00000000004026a0                IHM_InputProcessing
+ *fill*         0x00000000004028fe        0x2 
+ .text.IHM_Delete
+                0x0000000000402900       0x79 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x0000000000402900                IHM_Delete
+ *fill*         0x0000000000402979        0x7 
+ .text.IHM_New  0x0000000000402980       0xc6 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x0000000000402980                IHM_New
+ *fill*         0x0000000000402a46        0xa 
+ .text.IHM_setCustomData
+                0x0000000000402a50        0xb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x0000000000402a50                IHM_setCustomData
+ *fill*         0x0000000000402a5b        0x5 
+ .text.IHM_PrintHeader
+                0x0000000000402a60       0x42 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x0000000000402a60                IHM_PrintHeader
+ *fill*         0x0000000000402aa2        0xe 
+ .text.IHM_PrintInfo
+                0x0000000000402ab0       0x4a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x0000000000402ab0                IHM_PrintInfo
+ *fill*         0x0000000000402afa        0x6 
+ .text.IHM_PrintBattery
+                0x0000000000402b00       0x52 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                0x0000000000402b00                IHM_PrintBattery
+ *fill*         0x0000000000402b52        0xe 
+ .text.onInputEvent
+                0x0000000000402b60      0x1f3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000402b60                onInputEvent
+ *fill*         0x0000000000402d53        0xd 
+ .text.stateChanged
+                0x0000000000402d60       0xf0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000402d60                stateChanged
+ .text.decoderConfigCallback
+                0x0000000000402e50      0x126 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000402e50                decoderConfigCallback
+ *fill*         0x0000000000402f76        0xa 
+ .text.didReceiveFrameCallback
+                0x0000000000402f80      0x17e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000402f80                didReceiveFrameCallback
+ *fill*         0x00000000004030fe        0x2 
+ .text.customPrintCallback
+                0x0000000000403100       0x59 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000403100                customPrintCallback
+ *fill*         0x0000000000403159        0x7 
+ .text.batteryStateChanged
+                0x0000000000403160       0x22 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000403160                batteryStateChanged
+ *fill*         0x0000000000403182        0xe 
+ .text.commandReceived
+                0x0000000000403190      0xeb2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000403190                commandReceived
+ *fill*         0x0000000000404042        0xe 
+ .text          0x0000000000404050       0x72 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                0x0000000000404050                __libc_csu_init
+                0x00000000004040c0                __libc_csu_fini
+ *(.gnu.warning)
+
+.fini           0x00000000004040c4        0x9
+ *(SORT(.fini))
+ .fini          0x00000000004040c4        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000004040c4                _fini
+ .fini          0x00000000004040c8        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000004040cd                PROVIDE (__etext, .)
+                0x00000000004040cd                PROVIDE (_etext, .)
+                0x00000000004040cd                PROVIDE (etext, .)
+
+.rodata         0x00000000004040d0      0x898
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x00000000004040d0        0xc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .rodata.str1.1
+                0x00000000004040dc      0x137 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                                        0x148 (緩和前のサイズ)
+ *fill*         0x0000000000404213        0xd 
+ .rodata        0x0000000000404220      0x132 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+ *fill*         0x0000000000404352        0x6 
+ .rodata.str1.8
+                0x0000000000404358      0x610 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                                        0x60b (緩和前のサイズ)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000404968       0x9c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000404968       0x9c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.eh_frame       0x0000000000404a08      0x3ac
+ *(.eh_frame)
+ .eh_frame      0x0000000000404a08       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .eh_frame      0x0000000000404a38       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .eh_frame      0x0000000000404a78      0x138 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                                        0x120 (緩和前のサイズ)
+ .eh_frame      0x0000000000404bb0      0x1a0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+ .eh_frame      0x0000000000404d50       0x60 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                                         0x78 (緩和前のサイズ)
+ .eh_frame      0x0000000000404db0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000404db4                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000605d8c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000605d8c        0x0
+                0x0000000000605d8c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000000605d8c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000000605d90        0x8
+                0x0000000000605d90                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000605d90        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                0x0000000000605d98                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000000605d98        0x8
+                0x0000000000605d98                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000605d98        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                0x0000000000605da0                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000605da0        0x8
+ *(.jcr)
+ .jcr           0x0000000000605da0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .jcr           0x0000000000605da0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000605da8      0x230
+ *(.dynamic)
+ .dynamic       0x0000000000605da8      0x230 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000605da8                _DYNAMIC
+
+.got            0x0000000000605fd8       0x28
+ *(.got)
+ .got           0x0000000000605fd8       0x28 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.igot)
+                0x0000000000606fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000606000      0x1c0
+ *(.got.plt)
+ .got.plt       0x0000000000606000      0x1c0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000606000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.data           0x00000000006061c0        0x4
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00000000006061c0        0x4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x00000000006061c0                gIHMRun
+
+.tm_clone_table
+                0x00000000006061c8        0x0
+ .tm_clone_table
+                0x00000000006061c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .tm_clone_table
+                0x00000000006061c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.data1
+ *(.data1)
+                0x00000000006061c8                _edata = .
+                0x00000000006061c8                PROVIDE (edata, .)
+                0x00000000006061c8                . = .
+                0x00000000006061c8                __bss_start = .
+
+.bss            0x00000000006061e0      0x828
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000006061e0        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ *fill*         0x00000000006061e1        0x7 
+ .bss           0x00000000006061e8       0x18 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x00000000006061e8                isBebop2
+                0x00000000006061ec                frameNb
+                0x00000000006061f0                videoOut
+                0x00000000006061f8                ihm
+ *(COMMON)
+ COMMON         0x0000000000606200      0x808 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                0x0000000000606200                gErrorStr
+                0x0000000000606a00                stateSem
+                0x0000000000606a08                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000606a08                . = ALIGN (0x8)
+                0x0000000000606a08                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000a06a08        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000a06a08                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000a06a08                . = ALIGN (0x8)
+                0x0000000000a06a08                _end = .
+                0x0000000000a06a08                PROVIDE (end, .)
+                0x0000000000a06a08                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                                         0x2c (緩和前のサイズ)
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x130
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x90 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .debug_aranges
+                0x0000000000000090       0xa0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x7cc7
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0xadf /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .debug_info    0x0000000000000adf     0x71e8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+.debug_abbrev   0x0000000000000000      0x747
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x2b2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .debug_abbrev  0x00000000000002b2      0x495 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+.debug_line     0x0000000000000000      0xb54
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x274 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .debug_line    0x0000000000000274      0x8e0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0xd7ef
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x6c1 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+                                        0x714 (緩和前のサイズ)
+ .debug_str     0x00000000000006c1     0xd12e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+                                       0xd7f0 (緩和前のサイズ)
+
+.debug_loc      0x0000000000000000     0x26aa
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x237 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .debug_loc     0x0000000000000237     0x2473 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x4a0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x80 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/ihm.c.o
+ .debug_ranges  0x0000000000000080      0x420 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/obj/BebopPiloting.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/BebopPilotingNewAPI/BebopPilotingNewAPI elf64-x86-64)

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mech-user/bebop_ws/src/bebop_autonomy/bebop_tools/src/keyboard.cpp
+termios.h
+-
+signal.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+ros/ros.h
+-
+geometry_msgs/Twist.h
+-
+std_msgs/Float64.h
+-
+std_msgs/Empty.h
+-
+std_msgs/UInt8.h
+-
+

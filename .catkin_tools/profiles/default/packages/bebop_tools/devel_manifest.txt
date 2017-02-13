@@ -1,0 +1,5 @@
+bebop_autonomy/bebop_tools
+/home/mech-user/bebop_ws/devel/.private/bebop_tools/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake /home/mech-user/bebop_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake
+/home/mech-user/bebop_ws/devel/.private/bebop_tools/share/bebop_tools/cmake/bebop_toolsConfig.cmake /home/mech-user/bebop_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig.cmake
+/home/mech-user/bebop_ws/devel/.private/bebop_tools/lib/bebop_tools/keyboard_node /home/mech-user/bebop_ws/devel/lib/bebop_tools/keyboard_node
+/home/mech-user/bebop_ws/devel/.private/bebop_tools/lib/pkgconfig/bebop_tools.pc /home/mech-user/bebop_ws/devel/lib/pkgconfig/bebop_tools.pc

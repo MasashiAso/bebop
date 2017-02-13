@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 06df31ee5422c11f0a7d7c70ab6de8a1ed4ffbe7 mech-user <mech-user@test1-pc.(none)> 1483677255 +0900	fetch --progress github --tags +refs/heads/*:refs/remotes/github/*: storing head

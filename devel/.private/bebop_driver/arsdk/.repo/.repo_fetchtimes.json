@@ -1,0 +1,20 @@
+{
+  "libARDiscovery": 6.4691548347473145, 
+  "libARDataTransfer": 32.58293795585632, 
+  "libARStream": 10.631469011306763, 
+  "libARNetwork": 7.409274101257324, 
+  "libARStream2": 7.642655849456787, 
+  "arsdk_products": 3.366010904312134, 
+  "ARSDKBuildUtils": 6.803756952285767, 
+  "libARCommands": 13.205853939056396, 
+  "alchemy": 10.295144081115723, 
+  "libARController": 9.596599102020264, 
+  "libARSAL": 6.215203046798706, 
+  "ARSDKTools": 12.115530014038086, 
+  "Samples": 7.370531797409058, 
+  "libARUpdater": 14.168531894683838, 
+  "libARMavlink": 4.175426006317139, 
+  "libARNetworkAL": 5.232828855514526, 
+  "libARUtils": 9.413899183273315, 
+  "libARMedia": 18.220821857452393
+}

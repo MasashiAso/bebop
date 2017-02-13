@@ -1,0 +1,782 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o (ARSAL_Sem_Wait)
+libardiscovery.so             /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o (ARDISCOVERY_getProductPathName)
+libarutils.so                 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o (ARUTILS_Manager_Ftp_Rename)
+libpthread.so.0               /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o (readdir@@GLIBC_2.2.5)
+
+破棄された入力セクション
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .text          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+ .data          0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+メモリ設定
+
+名前           原点             長さ             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+リンカスクリプトおよびメモリマップ
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarsal.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libardiscovery.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarcommands.so
+LOAD /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/staging/usr/lib/libarutils.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x1cc
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x1cc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003c0      0xba0
+ *(.dynsym)
+ .dynsym        0x00000000000003c0      0xba0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000f60      0xeab
+ *(.dynstr)
+ .dynstr        0x0000000000000f60      0xeab /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001e0c       0xf8
+ *(.gnu.version)
+ .gnu.version   0x0000000000001e0c       0xf8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001f08        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001f08       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001f08       0x70 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001f78      0x138
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001f78       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001f90       0xf0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000002080       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000002098       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000020b0      0x7c8
+ *(.rela.plt)
+ .rela.plt      0x00000000000020b0      0x7c8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002878       0x1a
+ *(SORT(.init))
+ .init          0x0000000000002878       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002878                _init
+ .init          0x000000000000288d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000000028a0      0x540
+ *(.plt)
+ .plt           0x00000000000028a0      0x540 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000002de0     0x7a08
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000002de0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000002ec5        0xb 
+ .text.ARDATATRANSFER_DataDownloader_UsedMemoryCallback
+                0x0000000000002ed0       0x1d /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000002ed0                ARDATATRANSFER_DataDownloader_UsedMemoryCallback
+ *fill*         0x0000000000002eed        0x3 
+ .text.ARDATATRANSFER_DataDownloader_RemoveDataCallback
+                0x0000000000002ef0       0x69 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000002ef0                ARDATATRANSFER_DataDownloader_RemoveDataCallback
+ *fill*         0x0000000000002f59        0x7 
+ .text.ARDATATRANSFER_DataDownloader_CancelAvailableFiles
+                0x0000000000002f60       0xe3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000002f60                ARDATATRANSFER_DataDownloader_CancelAvailableFiles
+ *fill*         0x0000000000003043        0xd 
+ .text.ARDATATRANSFER_DataDownloader_CancelThread
+                0x0000000000003050      0x111 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003050                ARDATATRANSFER_DataDownloader_CancelThread
+ *fill*         0x0000000000003161        0xf 
+ .text.ARDATATRANSFER_DataDownloader_Initialize
+                0x0000000000003170      0x303 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003170                ARDATATRANSFER_DataDownloader_Initialize
+ *fill*         0x0000000000003473        0xd 
+ .text.ARDATATRANSFER_DataDownloader_Clear
+                0x0000000000003480       0xdd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003480                ARDATATRANSFER_DataDownloader_Clear
+ *fill*         0x000000000000355d        0x3 
+ .text.ARDATATRANSFER_DataDownloader_Delete
+                0x0000000000003560      0x108 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003560                ARDATATRANSFER_DataDownloader_Delete
+ *fill*         0x0000000000003668        0x8 
+ .text.ARDATATRANSFER_DataDownloader_New
+                0x0000000000003670      0x1bc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003670                ARDATATRANSFER_DataDownloader_New
+ *fill*         0x000000000000382c        0x4 
+ .text.ARDATATRANSFER_DataDownloader_CompareFileExtension
+                0x0000000000003830       0x6d /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003830                ARDATATRANSFER_DataDownloader_CompareFileExtension
+ *fill*         0x000000000000389d        0x3 
+ .text.ARDATATRANSFER_DataDownloader_GetAvailableFiles
+                0x00000000000038a0      0x450 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x00000000000038a0                ARDATATRANSFER_DataDownloader_GetAvailableFiles
+ .text.ARDATATRANSFER_DataDownloader_DownloadPudFiles
+                0x0000000000003cf0      0xd15 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000003cf0                ARDATATRANSFER_DataDownloader_DownloadPudFiles
+ *fill*         0x0000000000004a05        0xb 
+ .text.ARDATATRANSFER_DataDownloader_CheckUsedMemory
+                0x0000000000004a10      0x24c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000004a10                ARDATATRANSFER_DataDownloader_CheckUsedMemory
+ *fill*         0x0000000000004c5c        0x4 
+ .text.ARDATATRANSFER_DataDownloader_GetCrashReportIndex
+                0x0000000000004c60       0xa8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000004c60                ARDATATRANSFER_DataDownloader_GetCrashReportIndex
+ *fill*         0x0000000000004d08        0x8 
+ .text.ARDATATRANSFER_DataDownloader_RemoveRemoteDir
+                0x0000000000004d10      0x209 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000004d10                ARDATATRANSFER_DataDownloader_RemoveRemoteDir
+ *fill*         0x0000000000004f19        0x7 
+ .text.ARDATATRANSFER_DataDownloader_DownloadCrashReports
+                0x0000000000004f20      0x983 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x0000000000004f20                ARDATATRANSFER_DataDownloader_DownloadCrashReports
+ *fill*         0x00000000000058a3        0xd 
+ .text.ARDATATRANSFER_DataDownloader_ThreadRun
+                0x00000000000058b0      0x287 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                0x00000000000058b0                ARDATATRANSFER_DataDownloader_ThreadRun
+ *fill*         0x0000000000005b37        0x9 
+ .text.ARDATATRANSFER_Downloader_Ftp_ProgressCallback
+                0x0000000000005b40       0xda /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                0x0000000000005b40                ARDATATRANSFER_Downloader_Ftp_ProgressCallback
+ *fill*         0x0000000000005c1a        0x6 
+ .text.ARDATATRANSFER_Downloader_New
+                0x0000000000005c20      0x1ba /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                0x0000000000005c20                ARDATATRANSFER_Downloader_New
+ *fill*         0x0000000000005dda        0x6 
+ .text.ARDATATRANSFER_Downloader_Delete
+                0x0000000000005de0       0xdc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                0x0000000000005de0                ARDATATRANSFER_Downloader_Delete
+ *fill*         0x0000000000005ebc        0x4 
+ .text.ARDATATRANSFER_Downloader_GetSize
+                0x0000000000005ec0       0xf5 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                0x0000000000005ec0                ARDATATRANSFER_Downloader_GetSize
+ *fill*         0x0000000000005fb5        0xb 
+ .text.ARDATATRANSFER_Downloader_ThreadRun
+                0x0000000000005fc0      0x194 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                0x0000000000005fc0                ARDATATRANSFER_Downloader_ThreadRun
+ *fill*         0x0000000000006154        0xc 
+ .text.ARDATATRANSFER_Downloader_CancelThread
+                0x0000000000006160       0xe2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                0x0000000000006160                ARDATATRANSFER_Downloader_CancelThread
+ *fill*         0x0000000000006242        0xe 
+ .text.ARDATATRANSFER_Manager_Delete
+                0x0000000000006250       0xce /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+                0x0000000000006250                ARDATATRANSFER_Manager_Delete
+ *fill*         0x000000000000631e        0x2 
+ .text.ARDATATRANSFER_Manager_New
+                0x0000000000006320      0x103 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+                0x0000000000006320                ARDATATRANSFER_Manager_New
+ *fill*         0x0000000000006423        0xd 
+ .text.ARDATATRANSFER_MediasDownloader_FtpProgressCallback
+                0x0000000000006430       0x22 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006430                ARDATATRANSFER_MediasDownloader_FtpProgressCallback
+ *fill*         0x0000000000006452        0xe 
+ .text.ARDATATRANSFER_MediasDownloader_GetAvailableMediaAtIndex
+                0x0000000000006460       0x90 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006460                ARDATATRANSFER_MediasDownloader_GetAvailableMediaAtIndex
+ .text.ARDATATRANSFER_MediasDownloader_AddMediaToQueue
+                0x00000000000064f0      0x28f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x00000000000064f0                ARDATATRANSFER_MediasDownloader_AddMediaToQueue
+ *fill*         0x000000000000677f        0x1 
+ .text.ARDATATRANSFER_MediasDownloader_ResetQueueThread
+                0x0000000000006780      0x128 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006780                ARDATATRANSFER_MediasDownloader_ResetQueueThread
+ *fill*         0x00000000000068a8        0x8 
+ .text.ARDATATRANSFER_MediasDownloader_CancelQueueThread
+                0x00000000000068b0      0x134 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x00000000000068b0                ARDATATRANSFER_MediasDownloader_CancelQueueThread
+ *fill*         0x00000000000069e4        0xc 
+ .text.ARDATATRANSFER_MediasDownloader_ResetGetAvailableMedias
+                0x00000000000069f0       0xe3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x00000000000069f0                ARDATATRANSFER_MediasDownloader_ResetGetAvailableMedias
+ *fill*         0x0000000000006ad3        0xd 
+ .text.ARDATATRANSFER_MediasDownloader_CancelGetAvailableMedias
+                0x0000000000006ae0       0xe3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006ae0                ARDATATRANSFER_MediasDownloader_CancelGetAvailableMedias
+ *fill*         0x0000000000006bc3        0xd 
+ .text.ARDATATRANSFER_MediasDownloader_Initialize
+                0x0000000000006bd0      0x265 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006bd0                ARDATATRANSFER_MediasDownloader_Initialize
+ *fill*         0x0000000000006e35        0xb 
+ .text.ARDATATRANSFER_MediasDownloader_Clear
+                0x0000000000006e40       0xcb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006e40                ARDATATRANSFER_MediasDownloader_Clear
+ *fill*         0x0000000000006f0b        0x5 
+ .text.ARDATATRANSFER_MediasDownloader_GetThumbnail
+                0x0000000000006f10      0x10b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000006f10                ARDATATRANSFER_MediasDownloader_GetThumbnail
+ *fill*         0x000000000000701b        0x5 
+ .text.ARDATATRANSFER_MediasDownloader_DownloadMedia
+                0x0000000000007020      0x228 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000007020                ARDATATRANSFER_MediasDownloader_DownloadMedia
+ *fill*         0x0000000000007248        0x8 
+ .text.ARDATATRANSFER_MediasDownloader_QueueThreadRun
+                0x0000000000007250      0x246 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000007250                ARDATATRANSFER_MediasDownloader_QueueThreadRun
+ *fill*         0x0000000000007496        0xa 
+ .text.ARDATATRANSFER_MediasDownloader_RemoveMediaFromMediaList
+                0x00000000000074a0       0xe7 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x00000000000074a0                ARDATATRANSFER_MediasDownloader_RemoveMediaFromMediaList
+ *fill*         0x0000000000007587        0x9 
+ .text.ARDATATRANSFER_MediasDownloader_DeleteMedia
+                0x0000000000007590       0xaa /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000007590                ARDATATRANSFER_MediasDownloader_DeleteMedia
+ *fill*         0x000000000000763a        0x6 
+ .text.ARDATATRANSFER_MediasDownloader_FreeMediaList
+                0x0000000000007640      0x126 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000007640                ARDATATRANSFER_MediasDownloader_FreeMediaList
+ *fill*         0x0000000000007766        0xa 
+ .text.ARDATATRANSFER_MediasDownloader_Delete
+                0x0000000000007770      0x14f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000007770                ARDATATRANSFER_MediasDownloader_Delete
+ *fill*         0x00000000000078bf        0x1 
+ .text.ARDATATRANSFER_MediasDownloader_New
+                0x00000000000078c0      0x205 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x00000000000078c0                ARDATATRANSFER_MediasDownloader_New
+ *fill*         0x0000000000007ac5        0xb 
+ .text.ARDATATRANSFER_MediasDownloader_GetAvailableMediasSync
+                0x0000000000007ad0     0x1bae /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000007ad0                ARDATATRANSFER_MediasDownloader_GetAvailableMediasSync
+ *fill*         0x000000000000967e        0x2 
+ .text.ARDATATRANSFER_MediasDownloader_GetAvailableMediasAsync
+                0x0000000000009680      0x213 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                0x0000000000009680                ARDATATRANSFER_MediasDownloader_GetAvailableMediasAsync
+ *fill*         0x0000000000009893        0xd 
+ .text.ARDATATRANSFER_MediasQueue_Delete
+                0x00000000000098a0      0x142 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                0x00000000000098a0                ARDATATRANSFER_MediasQueue_Delete
+ *fill*         0x00000000000099e2        0xe 
+ .text.ARDATATRANSFER_MediasQueue_New
+                0x00000000000099f0      0x12b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                0x00000000000099f0                ARDATATRANSFER_MediasQueue_New
+ *fill*         0x0000000000009b1b        0x5 
+ .text.ARDATATRANSFER_MediasQueue_RemoveAll
+                0x0000000000009b20      0x119 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                0x0000000000009b20                ARDATATRANSFER_MediasQueue_RemoveAll
+ *fill*         0x0000000000009c39        0x7 
+ .text.ARDATATRANSFER_MediasQueue_Pop
+                0x0000000000009c40      0x1cb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                0x0000000000009c40                ARDATATRANSFER_MediasQueue_Pop
+ *fill*         0x0000000000009e0b        0x5 
+ .text.ARDATATRANSFER_MediasQueue_GetFreeIndex
+                0x0000000000009e10       0xc5 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                0x0000000000009e10                ARDATATRANSFER_MediasQueue_GetFreeIndex
+ *fill*         0x0000000000009ed5        0xb 
+ .text.ARDATATRANSFER_MediasQueue_Add
+                0x0000000000009ee0      0x11a /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                0x0000000000009ee0                ARDATATRANSFER_MediasQueue_Add
+ *fill*         0x0000000000009ffa        0x6 
+ .text.ARDATATRANSFER_Uploader_Ftp_ProgressCallback
+                0x000000000000a000       0xdb /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                0x000000000000a000                ARDATATRANSFER_Uploader_Ftp_ProgressCallback
+ *fill*         0x000000000000a0db        0x5 
+ .text.ARDATATRANSFER_Uploader_New
+                0x000000000000a0e0      0x1c0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                0x000000000000a0e0                ARDATATRANSFER_Uploader_New
+ .text.ARDATATRANSFER_Uploader_Delete
+                0x000000000000a2a0       0xde /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                0x000000000000a2a0                ARDATATRANSFER_Uploader_Delete
+ *fill*         0x000000000000a37e        0x2 
+ .text.ARDATATRANSFER_Uploader_ThreadRun
+                0x000000000000a380      0x196 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                0x000000000000a380                ARDATATRANSFER_Uploader_ThreadRun
+ *fill*         0x000000000000a516        0xa 
+ .text.ARDATATRANSFER_Uploader_CancelThread
+                0x000000000000a520       0xe3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                0x000000000000a520                ARDATATRANSFER_Uploader_CancelThread
+ *fill*         0x000000000000a603        0xd 
+ .text.ARDATATRANSFER_Uploader_Rename
+                0x000000000000a610       0xf6 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                0x000000000000a610                ARDATATRANSFER_Uploader_Rename
+ *fill*         0x000000000000a706        0xa 
+ .text.ARDATATRANSFER_Error_ToString
+                0x000000000000a710       0xd8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+                0x000000000000a710                ARDATATRANSFER_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x000000000000a7e8        0x9
+ *(SORT(.fini))
+ .fini          0x000000000000a7e8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000000a7e8                _fini
+ .fini          0x000000000000a7ec        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x000000000000a7f1                PROVIDE (__etext, .)
+                0x000000000000a7f1                PROVIDE (_etext, .)
+                0x000000000000a7f1                PROVIDE (etext, .)
+
+.rodata         0x000000000000a800      0xebf
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x000000000000a800      0x112 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                                        0x128 (緩和前のサイズ)
+ *fill*         0x000000000000a912        0x6 
+ .rodata.str1.8
+                0x000000000000a918       0x99 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ *fill*         0x000000000000a9b1        0xf 
+ .rodata        0x000000000000a9c0      0x2a2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ *fill*         0x000000000000ac62        0x6 
+ .rodata.cst8   0x000000000000ac68        0x8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .rodata.cst4   0x000000000000ac70        0x4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .rodata.str1.1
+                0x000000000000ac74       0x31 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                                         0x59 (緩和前のサイズ)
+ *fill*         0x000000000000aca5       0x1b 
+ .rodata        0x000000000000acc0      0x14e /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .rodata.str1.1
+                0x000000000000ae0e        0x8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+                                         0x25 (緩和前のサイズ)
+ *fill*         0x000000000000ae16        0xa 
+ .rodata        0x000000000000ae20       0x3b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .rodata.str1.1
+                0x000000000000ae5b       0x5c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                                         0xce (緩和前のサイズ)
+ *fill*         0x000000000000aeb7        0x1 
+ .rodata.str1.8
+                0x000000000000aeb8      0x16c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ *fill*         0x000000000000b024       0x1c 
+ .rodata        0x000000000000b040      0x364 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .rodata.str1.1
+                0x000000000000b3a4        0xc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                                         0x29 (緩和前のサイズ)
+ .rodata.str1.8
+                0x000000000000b3b0       0x28 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                                         0x21 (緩和前のサイズ)
+ *fill*         0x000000000000b3d8        0x8 
+ .rodata        0x000000000000b3e0       0xcf /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .rodata.str1.1
+                0x000000000000b4af        0x9 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                                         0x57 (緩和前のサイズ)
+ *fill*         0x000000000000b4b8        0x8 
+ .rodata        0x000000000000b4c0      0x10c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .rodata.str1.1
+                0x000000000000b5cc       0xf3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000000b6c0      0x1cc
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000b6c0      0x1cc /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+
+.eh_frame       0x000000000000b890      0xe64
+ *(.eh_frame)
+ .eh_frame      0x000000000000b890       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x000000000000b8d0      0x430 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                                        0x410 (緩和前のサイズ)
+ .eh_frame      0x000000000000bd00      0x178 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                                        0x180 (緩和前のサイズ)
+ .eh_frame      0x000000000000be78       0x70 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+                                         0x80 (緩和前のサイズ)
+ .eh_frame      0x000000000000bee8      0x4e8 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                                        0x4d8 (緩和前のサイズ)
+ .eh_frame      0x000000000000c3d0      0x188 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                                        0x190 (緩和前のサイズ)
+ .eh_frame      0x000000000000c558      0x180 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                                        0x188 (緩和前のサイズ)
+ .eh_frame      0x000000000000c6d8       0x18 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+                                         0x30 (緩和前のサイズ)
+ .eh_frame      0x000000000000c6f0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000c6f4                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000020cd84                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020cd88        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020cd88        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000020cd90        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020cd90        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020cd98        0x8
+ *(.jcr)
+ .jcr           0x000000000020cd98        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000020cd98        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020cda0      0x210
+ *(.dynamic)
+ .dynamic       0x000000000020cda0      0x210 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020cda0                _DYNAMIC
+
+.got            0x000000000020cfb0       0x50
+ *(.got)
+ .got           0x000000000020cfb0       0x50 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020dfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020d000      0x2b0
+ *(.got.plt)
+ .got.plt       0x000000000020d000      0x2b0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020d000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020d2b0        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020d2b0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020d2b0                __dso_handle
+
+.tm_clone_table
+                0x000000000020d2b8        0x0
+ .tm_clone_table
+                0x000000000020d2b8        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020d2b8        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020d2b8                _edata = .
+                0x000000000020d2b8                PROVIDE (edata, .)
+                0x000000000020d2b8                . = .
+                0x000000000020d2b8                __bss_start = .
+
+.bss            0x000000000020d2c0      0x130
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020d2c0        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x000000000020d2c1       0x1f 
+ .bss           0x000000000020d2e0      0x110 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ *(COMMON)
+                0x000000000020d3f0                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020d3f0                . = ALIGN (0x8)
+                0x000000000020d3f0                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060d3f0        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060d3f0                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060d3f0                . = ALIGN (0x8)
+                0x000000000060d3f0                _end = .
+                0x000000000060d3f0                PROVIDE (end, .)
+                0x000000000060d3f0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (緩和前のサイズ)
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .comment       0x0000000000000000       0x2c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x460
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x120 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .debug_aranges
+                0x0000000000000120       0x80 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .debug_aranges
+                0x00000000000001a0       0x40 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .debug_aranges
+                0x00000000000001e0      0x150 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .debug_aranges
+                0x0000000000000330       0x80 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .debug_aranges
+                0x00000000000003b0       0x80 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .debug_aranges
+                0x0000000000000430       0x30 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xfe83
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x4d91 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .debug_info    0x0000000000004d91     0x1989 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .debug_info    0x000000000000671a     0x116d /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .debug_info    0x0000000000007887     0x59d4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .debug_info    0x000000000000d25b     0x11c3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .debug_info    0x000000000000e41e     0x1998 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .debug_info    0x000000000000fdb6       0xcd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+
+.debug_abbrev   0x0000000000000000     0x1390
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x478 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .debug_abbrev  0x0000000000000478      0x2fd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .debug_abbrev  0x0000000000000775      0x23f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .debug_abbrev  0x00000000000009b4      0x3de /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .debug_abbrev  0x0000000000000d92      0x28b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .debug_abbrev  0x000000000000101d      0x2fd /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .debug_abbrev  0x000000000000131a       0x76 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+
+.debug_line     0x0000000000000000     0x34c3
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0xfec /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .debug_line    0x0000000000000fec      0x519 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .debug_line    0x0000000000001505      0x420 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .debug_line    0x0000000000001925     0x11d4 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .debug_line    0x0000000000002af9      0x39c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .debug_line    0x0000000000002e95      0x516 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .debug_line    0x00000000000033ab      0x118 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x2920
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x1cc3 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+                                       0x1d7d (緩和前のサイズ)
+ .debug_str     0x0000000000001cc3      0x14f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+                                       0x14c0 (緩和前のサイズ)
+ .debug_str     0x0000000000001e12       0x8f /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+                                       0x1390 (緩和前のサイズ)
+ .debug_str     0x0000000000001ea1      0x876 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+                                       0x1dcc (緩和前のサイズ)
+ .debug_str     0x0000000000002717       0x72 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+                                        0xb62 (緩和前のサイズ)
+ .debug_str     0x0000000000002789      0x13b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+                                       0x14c2 (緩和前のサイズ)
+ .debug_str     0x00000000000028c4       0x5c /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+                                        0x2b2 (緩和前のサイズ)
+
+.debug_loc      0x0000000000000000     0xc3b3
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x4270 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .debug_loc     0x0000000000004270      0x7d2 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .debug_loc     0x0000000000004a42      0x11b /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .debug_loc     0x0000000000004b5d     0x66f0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .debug_loc     0x000000000000b24d      0x922 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .debug_loc     0x000000000000bb6f      0x844 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x2cb0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x1180 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_DataDownloader.c.o
+ .debug_ranges  0x0000000000001180      0x210 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Downloader.c.o
+ .debug_ranges  0x0000000000001390       0xa0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Manager.c.o
+ .debug_ranges  0x0000000000001430     0x14e0 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasDownloader.c.o
+ .debug_ranges  0x0000000000002910      0x170 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_MediasQueue.c.o
+ .debug_ranges  0x0000000000002a80      0x210 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/Sources/ARDATATRANSFER_Uploader.c.o
+ .debug_ranges  0x0000000000002c90       0x20 /home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/obj/gen/Sources/ARDATATRANSFER_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/mech-user/bebop_ws/devel/.private/bebop_driver/arsdk/out/Unix-base/build/libARDataTransfer/libardatatransfer.so elf64-x86-64)
